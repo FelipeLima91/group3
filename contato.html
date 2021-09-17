@@ -1,61 +1,55 @@
-<html>
-    <head>
-        <title>.:Gama Grupo 3:.</title>
-        <link rel="stylesheet" href="./estilo.css"/>
-    </head>
+<DOCTYPE HTML>
+<html lang="pt-br">
+      <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="Contato.css">
+        <title>Contato</title>
+      </head>
     <body>
 
-        <div id="cabecalho">
-            <h1>Contatos - Grupo 3</h1> <!--Título da página-->
-        </div>
-        <div id="conteudo">
-        <div><ul>
-            <li><a href="./index.html">Home</a></li>
-            <li><a href="./sobre.html">Sobre</a></li>
-            <li><a href="./contato.html">Contatos</a></li>
-            <li><a href="./saibamais.html">Saiba Mais</a></li>
-          </ul></div>
+      <div class="card">
+            <h2>Contato</h2>
+            <div class="row">
+              <div class="col">
+                <div class="form-group">
+                  <label>Nome</label>
+                  <input type="text">
+                </div>
+              </div>
+          
+              <div class="col">
+                <div class="form-group">
+                  <label>Sobrenome</label>
+                  <input type="text">
+                </div>
+              </div>
+          
+              <div class="col">
+                <div class="form-group">
+                  <label>Endereço</label>
+                  <input type="text">
+                </div>
+              </div>
+          
+              <div class="col">
+                <div class="form-group">
+                  <label>Celular</label>
+                  <input type="text">
+                </div>
+              </div>
+          
+              <div class="col">
+                <div class="form-group">
+                  <label>E-mail</label>
+                  <textarea></textarea>
+                </div>
+              </div>
+          
+              <div class="col">
+                <input type="submit" value="Enviar">
+              </div>
             </div>
-        </div>
-       
-        <div id="conteudo">
-        <h1>Contato</h1>
-        <form name="formContato" action="" method="get">
+       </div>
 
-            <p>
-                Nome: <br><input type="text" name="nome"><br>
-                Sobrenome: <br><input type="text" name="sobrenome">
-            </p>
-
-            <p>
-                Sexo:<br>
-                <input type="radio" name="sexo" value="Masculino"> Masculino<br>
-                <input type="radio" name="sexo" value="Feminino"> Feminino<br>
-            </p>
-            
-            <p>
-                Endereço:<br><input type="text" name="Endereço"><br>
-                Telefone:<br><input type="text" name="Telefone"><br>
-                Celular:<br><input type="text" name="Celular"><br>
-                E-mail:<br><input type="text" name="E-mail">
-            </p>        
-
-            <p>
-                "Aceito o termo de condições"<br>
-                <input type="checkbox" name="termo" value="Sim"> Sim<br>
-                <input type="checkbox" name="termo" value="Não"> Não
-            </p>
-
-            <p>
-                <input type="submit" name="btEnviar" value="Enviar">
-            </p>
-        </form>
-        </div>
-        
-        <div id="rodape">
-            <p> Nós representamos o grupo 3 no Programa Itaú Tech para deficientes</p>
-
-        </div>
-    </body>
-    
+    </body>    
 </html>
