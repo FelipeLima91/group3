@@ -111,14 +111,4 @@ box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19
   border: 5px solid rgb(53, 41, 161);
   margin: 0;
 }
-</style>
-</head>
-<body>
 
-<h2>Calculate the total width:</h2>
-
-<img src="klematis4_big.jpg" width="350" height="263" alt="Klematis">
-<div>The picture above is 350px wide. The total width of this element is also 350px.</div>
-
-</body>
-</html>
