@@ -1,7 +1,7 @@
 * {
-    margin: 0;
+    margin: 10;
     padding: 0;
-    border-inline: white;
+    border-inline: rgb(55, 102, 255);
   }
   
   html , body {
@@ -19,8 +19,8 @@
   .card {
     width: 80%;
     padding: 50px 90px 90px 90px;
-    border: 6px solid rgb(240, 244, 247);
-    box-shadow: 50px 20px 0 #f3f0f0d8;
+    border: 6px solid #ffffff;
+    box-shadow: 50px 20px 0 #ffffff;
     border-radius: 50px;
     position: center;
   }
@@ -65,7 +65,7 @@
     padding: 10px 0 10px 20px;
     border: 5px solid #faf7f7;
     box-shadow: 10px 10px 0 hsl(246, 93%, 24%);
-    color: #ffffff;
+    color: #020202;
     border-radius: 50px;
   }
   
