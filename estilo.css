@@ -46,6 +46,8 @@ body {
     position: sticky;
     top: 0;
     border-radius: 10px;
+    
+    
   }
   
   li {
@@ -90,6 +92,7 @@ body {
   margin-bottom: 3%;
 }
 #carol{
+
 width: 15%; 
 border-radius: 30%;
 box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19);
@@ -112,3 +115,27 @@ box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19
   margin: 0;
 }
 
+
+p{
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2{
+  text-align: justify;
+  border: 1px solid gray;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#T1{
+  text-align: center;
+}
