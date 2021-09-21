@@ -136,13 +136,16 @@ img {
 
 h2{
   text-align: center;
-  border: 1px solid gray;
+  border-style: outset;
+  border-radius: 15px 50px 30px;
   margin-left: 15%;
   margin-right: 15%;
 }
 
 #T1{
   text-align: center;
+  background: #2ed45894;
+  border-radius: 15px 50px 30px;
 }
 
 .card {
