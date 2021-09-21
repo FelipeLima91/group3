@@ -102,6 +102,11 @@ width: 15%;
 border-radius: 30%;
 box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19); 
 }
+#flavio{
+  width: 15%; 
+  border-radius: 30%;
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19);
+}
 #patrick{
   width: 15%; 
   border-radius: 30%;
