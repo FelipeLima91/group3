@@ -262,6 +262,7 @@ h2{
 table {
   border-collapse: collapse;
   width: 100%;
+  border-radius: 5px;
 }
 
 th, td {
@@ -276,3 +277,5 @@ th, td {
   margin: 0 auto;
   display: block;
 }
+
+tr:nth-child(even) {background-color: #bbbbbbb6;}
