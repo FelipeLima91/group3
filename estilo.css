@@ -160,7 +160,7 @@ h2{
 }
 
 .card h2 {
-  color: #ffffff;
+  color: #000000;
   font-size: 60px;
   text-transform: center;
 }
@@ -205,7 +205,7 @@ h2{
 
 .card .row .form-group label {
   line-height: 50px;
-  color: #ffffff;
+  color: #000000;
   font-size: 30px;
   margin: 0 0 0 30px;
   display: block;
@@ -232,7 +232,7 @@ h2{
   outline: none;
   background: transparent;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #030303;
   line-height: 40px;
   font-size: 24px;
   font-weight: 700;
@@ -241,8 +241,8 @@ h2{
 }
 
 .card .row input[type="submit"]:hover {
-  border: 5px solid rgba(255, 255, 255, 1);
-  color: #ffffff;
+  border: 5px solid rgb(0, 0, 0);
+  color: #313131;
   transition: all 0.4s;
 }
 
