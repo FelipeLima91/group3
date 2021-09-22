@@ -93,22 +93,22 @@ body {
 }
 #carol{
 
-width: 15%; 
+width: 40%; 
 border-radius: 30%;
 box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19);
 }
 #felipe{
-width: 15%;
+width: 40%;
 border-radius: 30%;
 box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19); 
 }
 #flavio{
-  width: 15%; 
+  width: 40%; 
   border-radius: 30%;
   box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19);
 }
 #patrick{
-  width: 15%; 
+  width: 40%; 
   border-radius: 30%;
   box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 100px 100px 0 rgba(0, 0, 0, 0.19);
 }
@@ -144,6 +144,8 @@ h2{
 
 #T1{
   text-align: center;
+  margin-bottom: 2%;
+  margin-top: 5%;
   background: #2ed45894;
   border-radius: 15px 50px 30px;
 }
@@ -281,4 +283,8 @@ th, td {
   display: block;
 }
 
-tr:nth-child(even) {background-color: #bbbbbbb6;}
+
+#sobrecoluna {
+  margin-left: 0%;
+  margin-right: 0%;
+}
